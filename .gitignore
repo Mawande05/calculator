@@ -1,0 +1,4 @@
+# files to ignore
+#intelije's specific files and folders
+/.idea/
+*.iml
