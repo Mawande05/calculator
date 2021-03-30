@@ -1,7 +1,7 @@
 package za.ac.cput.calculator;
 /**
  *
- * returns the results of division integers
+ * @author  Mawande
  */
 
 
